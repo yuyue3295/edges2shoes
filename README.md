@@ -4,3 +4,5 @@
 ，并执行test.ipynb，训练则执行pix2pix_diy.ipynb，项目目录请参照项目目录.JPG.<br>
 下面是程序运行的一些结果：<br>
 ![](result_imgs/shoes-145_AB.jpg)
+![](result_imgs/shoes-141_AB.jpg)
+![](result_imgs/shoes-100_AB.jpg)
